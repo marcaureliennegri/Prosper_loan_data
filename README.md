@@ -1,6 +1,6 @@
 # Loan Data Exploration
 
- By Marc-Aurélien NEGRI
+ By Marc-Aurélien NEGRI - October 2020
 
 # Prosper_loan_data
 This project is part of Udacity's Data Analyst Nanodegree, and its objective is to explore Prosper Loans dataset and uncover actionable insights using exploratory and explanatory data analysis techniques.
